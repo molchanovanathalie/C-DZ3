@@ -1,0 +1,15 @@
+E:\Наташа разработчик\C#DZ3\003_ProizvedenieChusel\bin\Debug\net6.0\003_ProizvedenieChusel.exe
+E:\Наташа разработчик\C#DZ3\003_ProizvedenieChusel\bin\Debug\net6.0\003_ProizvedenieChusel.deps.json
+E:\Наташа разработчик\C#DZ3\003_ProizvedenieChusel\bin\Debug\net6.0\003_ProizvedenieChusel.runtimeconfig.json
+E:\Наташа разработчик\C#DZ3\003_ProizvedenieChusel\bin\Debug\net6.0\003_ProizvedenieChusel.dll
+E:\Наташа разработчик\C#DZ3\003_ProizvedenieChusel\bin\Debug\net6.0\003_ProizvedenieChusel.pdb
+E:\Наташа разработчик\C#DZ3\003_ProizvedenieChusel\obj\Debug\net6.0\003_ProizvedenieChusel.csproj.AssemblyReference.cache
+E:\Наташа разработчик\C#DZ3\003_ProizvedenieChusel\obj\Debug\net6.0\003_ProizvedenieChusel.GeneratedMSBuildEditorConfig.editorconfig
+E:\Наташа разработчик\C#DZ3\003_ProizvedenieChusel\obj\Debug\net6.0\003_ProizvedenieChusel.AssemblyInfoInputs.cache
+E:\Наташа разработчик\C#DZ3\003_ProizvedenieChusel\obj\Debug\net6.0\003_ProizvedenieChusel.AssemblyInfo.cs
+E:\Наташа разработчик\C#DZ3\003_ProizvedenieChusel\obj\Debug\net6.0\003_ProizvedenieChusel.csproj.CoreCompileInputs.cache
+E:\Наташа разработчик\C#DZ3\003_ProizvedenieChusel\obj\Debug\net6.0\003_ProizvedenieChusel.dll
+E:\Наташа разработчик\C#DZ3\003_ProizvedenieChusel\obj\Debug\net6.0\refint\003_ProizvedenieChusel.dll
+E:\Наташа разработчик\C#DZ3\003_ProizvedenieChusel\obj\Debug\net6.0\003_ProizvedenieChusel.pdb
+E:\Наташа разработчик\C#DZ3\003_ProizvedenieChusel\obj\Debug\net6.0\003_ProizvedenieChusel.genruntimeconfig.cache
+E:\Наташа разработчик\C#DZ3\003_ProizvedenieChusel\obj\Debug\net6.0\ref\003_ProizvedenieChusel.dll
