@@ -1,0 +1,15 @@
+E:\Наташа разработчик\C#DZ3\002_SumChisel\obj\Debug\net6.0\002_SumChisel.csproj.AssemblyReference.cache
+E:\Наташа разработчик\C#DZ3\002_SumChisel\obj\Debug\net6.0\002_SumChisel.GeneratedMSBuildEditorConfig.editorconfig
+E:\Наташа разработчик\C#DZ3\002_SumChisel\obj\Debug\net6.0\002_SumChisel.AssemblyInfoInputs.cache
+E:\Наташа разработчик\C#DZ3\002_SumChisel\obj\Debug\net6.0\002_SumChisel.AssemblyInfo.cs
+E:\Наташа разработчик\C#DZ3\002_SumChisel\obj\Debug\net6.0\002_SumChisel.csproj.CoreCompileInputs.cache
+E:\Наташа разработчик\C#DZ3\002_SumChisel\bin\Debug\net6.0\002_SumChisel.exe
+E:\Наташа разработчик\C#DZ3\002_SumChisel\bin\Debug\net6.0\002_SumChisel.deps.json
+E:\Наташа разработчик\C#DZ3\002_SumChisel\bin\Debug\net6.0\002_SumChisel.runtimeconfig.json
+E:\Наташа разработчик\C#DZ3\002_SumChisel\bin\Debug\net6.0\002_SumChisel.dll
+E:\Наташа разработчик\C#DZ3\002_SumChisel\bin\Debug\net6.0\002_SumChisel.pdb
+E:\Наташа разработчик\C#DZ3\002_SumChisel\obj\Debug\net6.0\002_SumChisel.dll
+E:\Наташа разработчик\C#DZ3\002_SumChisel\obj\Debug\net6.0\refint\002_SumChisel.dll
+E:\Наташа разработчик\C#DZ3\002_SumChisel\obj\Debug\net6.0\002_SumChisel.pdb
+E:\Наташа разработчик\C#DZ3\002_SumChisel\obj\Debug\net6.0\002_SumChisel.genruntimeconfig.cache
+E:\Наташа разработчик\C#DZ3\002_SumChisel\obj\Debug\net6.0\ref\002_SumChisel.dll
