@@ -1,0 +1,15 @@
+E:\Наташа разработчик\C#DZ3\001_KubyChisel\bin\Debug\net6.0\001_KubyChisel.exe
+E:\Наташа разработчик\C#DZ3\001_KubyChisel\bin\Debug\net6.0\001_KubyChisel.deps.json
+E:\Наташа разработчик\C#DZ3\001_KubyChisel\bin\Debug\net6.0\001_KubyChisel.runtimeconfig.json
+E:\Наташа разработчик\C#DZ3\001_KubyChisel\bin\Debug\net6.0\001_KubyChisel.dll
+E:\Наташа разработчик\C#DZ3\001_KubyChisel\bin\Debug\net6.0\001_KubyChisel.pdb
+E:\Наташа разработчик\C#DZ3\001_KubyChisel\obj\Debug\net6.0\001_KubyChisel.csproj.AssemblyReference.cache
+E:\Наташа разработчик\C#DZ3\001_KubyChisel\obj\Debug\net6.0\001_KubyChisel.GeneratedMSBuildEditorConfig.editorconfig
+E:\Наташа разработчик\C#DZ3\001_KubyChisel\obj\Debug\net6.0\001_KubyChisel.AssemblyInfoInputs.cache
+E:\Наташа разработчик\C#DZ3\001_KubyChisel\obj\Debug\net6.0\001_KubyChisel.AssemblyInfo.cs
+E:\Наташа разработчик\C#DZ3\001_KubyChisel\obj\Debug\net6.0\001_KubyChisel.csproj.CoreCompileInputs.cache
+E:\Наташа разработчик\C#DZ3\001_KubyChisel\obj\Debug\net6.0\001_KubyChisel.dll
+E:\Наташа разработчик\C#DZ3\001_KubyChisel\obj\Debug\net6.0\refint\001_KubyChisel.dll
+E:\Наташа разработчик\C#DZ3\001_KubyChisel\obj\Debug\net6.0\001_KubyChisel.pdb
+E:\Наташа разработчик\C#DZ3\001_KubyChisel\obj\Debug\net6.0\001_KubyChisel.genruntimeconfig.cache
+E:\Наташа разработчик\C#DZ3\001_KubyChisel\obj\Debug\net6.0\ref\001_KubyChisel.dll
